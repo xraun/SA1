@@ -53,6 +53,12 @@ Left and Right Elbows: 160°
 Left and Right Knees: 170°
 Angle Threshold: A 15° deviation threshold was chosen, meaning if the detected angle is off by more than 15°, a recommendation is triggered.
 The pre-trained MediaPipe Pose model and threshold values were selected based on research findings to ensure reliable and accurate posture feedback without the need for custom training.
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/b59578d0-bd08-4f8f-ad77-c9645292d0f2)
+![image](https://github.com/user-attachments/assets/248976fa-29dc-4362-8a26-0287edf8033c)
+![image](https://github.com/user-attachments/assets/327cb744-e88b-456e-969b-e8284ef575d7)
+
 ## References
 MediaPipe Documentation: MediaPipe Pose
 OpenCV Documentation: OpenCV Library
